@@ -1,0 +1,2 @@
+- Explore all the shape preserving smoothing polynomials with solutions in scipy.
+- Check cupy for implementations
